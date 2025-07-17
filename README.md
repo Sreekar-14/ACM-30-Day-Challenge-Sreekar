@@ -1,4 +1,4 @@
-# ACM-30day-Chalenge--Sreekar-
+# ACM-30day-Challenge--Sreekar-
 # 🧠 Data Challenge Series
 
 ## 👤 Short Self-Intro
