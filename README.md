@@ -25,7 +25,7 @@ Hi! I'm Sreekar, a data science enthusiast eager to solve real-world problems us
 | 1   | Burnout Breakdown       | ✅ Completed |
 | 2   | Stress Signals          | ✅ Completed |
 | 3   | Outlier Overload        | ✅ Completed |
-| 4   | Encode to Survive       | ⏳ Upcoming  |
+| 4   | Encode to Survive       | ✅ Completed |
 | 5   | Prepping for Prediction | ⏳ Upcoming  |
 | -   | Mini Challenge          | ⏳ Upcoming  |
 | -   | Main Challenge          | ⏳ Upcoming  |
