@@ -27,8 +27,8 @@ Hi! I'm Sreekar, a data science enthusiast eager to solve real-world problems us
 | 3   | Outlier Overload        | ✅ Completed |
 | 4   | Encode to Survive       | ✅ Completed |
 | 5   | Prepping for Prediction | ⏳ Upcoming  |
-| -   | Mini Challenge          | ⏳ Upcoming  |
-| -   | Main Challenge          | ⏳ Upcoming  |
+| -   | Mini Challenge          | ✅ Completed |
+| -   | Main Challenge          | ✅ Completed |
 
 ---
 
